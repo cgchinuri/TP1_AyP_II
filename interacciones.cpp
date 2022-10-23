@@ -4,7 +4,7 @@
 using namespace std;
 
 void mostrarOpcionesMenu() {
-  cout << "\nSeleccione alguna de las siguientes opciones:" << endl;
+  cout << "\nSeleccione alguna de las siguientes opcionesSSSSS:" << endl;
   cout << "a) Ejecutar un turno." << endl;
   cout << "b) Reiniciar el Juego" << endl;
   cout << "c) Terminar" << endl;
